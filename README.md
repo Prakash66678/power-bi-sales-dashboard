@@ -1,38 +1,91 @@
-# Power BI Sales Dashboard
+# 📊 Power BI Dashboards Collection
 
-## Project Overview
+Welcome to my **Power BI Dashboards Collection**. This repository contains multiple Power BI projects created to practice data analysis, visualization, and business intelligence concepts.
 
-This project analyzes sales performance using Power BI.
+## 📁 Repository Contents
 
-## Features
+This folder includes the following Power BI dashboard files:
 
-- Executive Dashboard
-- Customer Analysis
-- Product Analysis
-- Regional Sales
-- KPIs
+- 📌 Sales Management Dashboard
+- 📌 Sales Dashboard 2026
+- 📌 Monthly Sales Dashboard
+- 📌 Monthly Orders Dashboard
+- 📌 Power Query Practice
+- 📌 Customer Count by Country
+- 📌 Customer Sales by Country
+- 📌 Sales Management
+- 📌 Collapsed Dashboard
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
-- Power BI
-- DAX
+- Microsoft Power BI Desktop
 - Power Query
-- Excel
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+- Microsoft Excel (Dataset)
 
-## Dataset
+## 📈 Skills Demonstrated
 
-Sales data with Star Schema Model.
+- Interactive Dashboards
+- KPI Cards
+- Slicers and Filters
+- Charts and Graphs
+- Data Cleaning with Power Query
+- Data Transformation
+- Data Modeling
+- Business Insights
+- Dashboard Design
 
-## Dashboard
+## 📂 Dashboard Features
 
-### Executive Dashboard
+- Sales Performance Analysis
+- Customer Analysis
+- Country-wise Sales Reports
+- Monthly Sales Trends
+- Monthly Order Analysis
+- KPI Monitoring
+- Interactive Visualizations
 
-![Dashboard](screenshots/dashboard1.png)
+## 🚀 How to Use
 
-### Customer Dashboard
+1. Download or clone this repository.
+2. Open any `.pbix` file using **Microsoft Power BI Desktop**.
+3. Refresh the data (if required).
+4. Explore the interactive dashboards.
 
-![Dashboard](screenshots/dashboard2.png)
+## 📸 Dashboard Preview
 
-### Product Dashboard
+You can add screenshots of your dashboards in this section.
 
-![Dashboard](screenshots/dashboard3.png)
+Example:
+
+```
+screenshots/
+│
+├── sales_dashboard.png
+├── monthly_sales.png
+└── customer_analysis.png
+```
+
+## 📚 Learning Outcomes
+
+This project helped me learn:
+
+- Power BI Dashboard Development
+- Data Visualization Best Practices
+- Power Query Transformations
+- DAX Calculations
+- Data Modeling
+- Business Intelligence Reporting
+
+## 👨‍💻 Author
+
+**Gnana Prakash**
+
+- GitHub: https://github.com/Prakash66678
+- LinkedIn: (https://www.linkedin.com/in/gnana--prakash/)
+
+---
+
+⭐ If you found this repository useful, feel free to star it!
